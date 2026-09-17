@@ -1,0 +1,3 @@
+# LHBDF has no external dependencies.
+# Uses Python standard library only: csv, json, os, datetime, collections
+# Python 3.10+ required
